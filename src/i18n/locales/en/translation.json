@@ -1,7 +1,13 @@
 {
   "hero_title": "Hi, I'm Lisandro Piatti",
-  "hero_subtitle": "Software Developer",
+  "hero_subtitle": "Software Developer focused on Backend and infrastructure.",
   "view_projects": "View Projects",
   "contact_me": "Contact Me",
-  "portfolio_title": "My Personal Portfolio"
+  "portfolio_title": "My Personal Portfolio",
+
+  "about_title": "About Me",
+  "about_paragraph_1": "Hello! I am Lisandro, a passionate Software developer with an analytical mindset, focused on solving complex problems with efficiency and quality.",
+  "about_paragraph_2": " I work autonomously and proactively, adapting easily to new environments and technologies. I communicate clearly, collaborate in agile teams and add value in code reviews and documentation.",
+  "about_paragraph_3": "Always looking for best practices, I write clean, secure and maintainable code. Open to feedback and continuous learning, I believe in empathy as the basis of a solid and well-aligned team.",
+  "your_photo_alt_text": "Your Profile Photo"
 }

@@ -1,9 +1,10 @@
 import React from 'react';
 import Hero from './components/Hero';
-import { useTranslation } from 'react-i18next'; // <-- Importa useTranslation
+import About from './components/About';
+import { useTranslation } from 'react-i18next'; 
 
 function App() {
-  const { t, i18n } = useTranslation(); // <-- Inicializa el hook
+  const { t, i18n } = useTranslation(); 
 
   // Función para cambiar el idioma
   const changeLanguage = (lng: string) => {
@@ -33,6 +34,7 @@ function App() {
       </h1>
 
       <Hero />
+      <About />
     </div>
   );
 }
