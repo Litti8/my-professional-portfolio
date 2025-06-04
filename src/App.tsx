@@ -1,6 +1,7 @@
 import React from 'react';
 import Hero from './components/Hero';
 import About from './components/About';
+import Skills from './components/Skills';
 import { useTranslation } from 'react-i18next'; 
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
 
       <Hero />
       <About />
+      <Skills />
     </div>
   );
 }

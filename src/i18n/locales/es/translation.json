@@ -1,6 +1,6 @@
 {
   "hero_title": "Hola, soy Lisandro Piatti",
-  "hero_subtitle": "Desarrollador de Software enfocado al Backend e infrastructura",
+  "hero_subtitle": "Desarrollador de Software enfocado al Backend e infraestructura",
   "view_projects": "Ver Proyectos",
   "contact_me": "Contáctame",
   "portfolio_title": "Mi Portafolio Personal",
@@ -9,5 +9,8 @@
   "about_paragraph_1": "¡Hola! Soy [Tu Nombre], un apasionado Desarrollador de software con mentalidad analítica, enfocado en resolver problemas complejos con eficiencia y calidad.",
   "about_paragraph_2": "Trabajo con autonomía y proactividad, adaptándome fácilmente a nuevos entornos y tecnologías. Me comunico con claridad, colaboro en equipos ágiles y aporto valor en revisiones de código y documentación.",
   "about_paragraph_3": "Siempre en búsqueda de buenas prácticas, escribo código limpio, seguro y mantenible. Abierto al feedback y al aprendizaje continuo, creo en la empatía como base de un equipo sólido y bien alineado.",
-  "your_photo_alt_text": "Tu Foto de Perfil"
+  "your_photo_alt_text": "Tu Foto de Perfil",
+  
+  "skills_title": "Habilidades",
+  "skills_description": "#Pensamiento lógico y analítico #Comunicacion efectiva  #Colaboracion en equipo #Resolución de problemas #Adaptabilidad #Aprendizaje continuo #Orientacion a la calidad #Empatía #Proactividad #Autonomía"
 }
