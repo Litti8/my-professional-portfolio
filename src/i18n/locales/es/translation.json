@@ -6,11 +6,34 @@
   "portfolio_title": "Mi Portafolio Personal",
 
   "about_title": "Sobre Mí",
-  "about_paragraph_1": "¡Hola! Soy [Tu Nombre], un apasionado Desarrollador de software con mentalidad analítica, enfocado en resolver problemas complejos con eficiencia y calidad.",
+  "about_paragraph_1": "¡Hola! Soy Lisandro, un apasionado Desarrollador de software con mentalidad analítica, enfocado en resolver problemas complejos con eficiencia y calidad.",
   "about_paragraph_2": "Trabajo con autonomía y proactividad, adaptándome fácilmente a nuevos entornos y tecnologías. Me comunico con claridad, colaboro en equipos ágiles y aporto valor en revisiones de código y documentación.",
   "about_paragraph_3": "Siempre en búsqueda de buenas prácticas, escribo código limpio, seguro y mantenible. Abierto al feedback y al aprendizaje continuo, creo en la empatía como base de un equipo sólido y bien alineado.",
   "your_photo_alt_text": "Tu Foto de Perfil",
   
   "skills_title": "Habilidades",
-  "skills_description": "#Pensamiento lógico y analítico #Comunicacion efectiva  #Colaboracion en equipo #Resolución de problemas #Adaptabilidad #Aprendizaje continuo #Orientacion a la calidad #Empatía #Proactividad #Autonomía"
+  "hard_skills_subtitle": "Habilidades Técnicas",
+  "soft_skills_subtitle": "Habilidades Blandas",
+  "skills_description": "#Pensamiento lógico y analítico #Comunicacion efectiva  #Colaboracion en equipo #Resolución de problemas #Adaptabilidad #Aprendizaje continuo #Orientacion a la calidad #Empatía #Proactividad #Autonomía",
+  
+  "soft_skill_1_title": "# Pensamiento Lógico y Analítico",
+  "soft_skill_1_description": "Diagnóstico de problemas complejos. Resolución eficiente de errores.",
+
+  "soft_skill_2_title": "# Comunicación Efectiva",
+  "soft_skill_2_description": "Explicación técnica clara para otros perfiles (frontend, producto). Documentación comprensible de APIs y procesos.",
+
+  "soft_skill_3_title": "# Colaboración en Equipo",
+  "soft_skill_3_description": "Trabajo en entornos ágiles (Scrum, Kanban). Participación en revisiones de código.",
+
+  "soft_skill_4_title": "# Autonomía y Responsabilidad",
+  "soft_skill_4_description": "Gestión del tiempo y cumplimiento de deadlines. Proactividad para encontrar soluciones y proponer mejoras.",
+
+  "soft_skill_5_title": "# Adaptabilidad al Cambio",
+  "soft_skill_5_description": "Aprendizaje continuo de nuevas tecnologías. Flexibilidad para trabajar en diferentes entornos o stacks.",
+
+  "soft_skill_6_title": "# Orientación a la Calidad",
+  "soft_skill_6_description": "Atención al detalle. Búsqueda de buenas prácticas y eficiencia en el código.",
+
+  "soft_skill_7_title": "# Empatía y Humildad",
+  "soft_skill_7_description": "Apertura al feedback. Colaboración desde el respeto y la escucha activa."
 }

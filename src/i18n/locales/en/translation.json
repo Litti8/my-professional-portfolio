@@ -12,5 +12,27 @@
   "your_photo_alt_text": "Your Profile Photo",
 
   "skills_title": "Skills",
-  "skills_description": "#Logical and analytical thinking #Effective communication #Team collaboration #Problem solving #Adaptability #Continuous learning #Quality orientation #Empathy #Proactivity #Autonomy #Autonomy"
+  "hard_skills_subtitle": "Technical Skills",
+  "soft_skills_subtitle": "Soft Skills",
+  "skills_description": "#Logical and analytical thinking #Effective communication #Team collaboration #Problem solving #Adaptability #Continuous learning #Quality orientation #Empathy #Proactivity #Autonomy #Autonomy",
+  "soft_skill_1_title": "# Logical and Analytical Thinking",
+  "soft_skill_1_description": "Ability to diagnose complex problems and efficiently resolve errors.",
+
+  "soft_skill_2_title": "# Effective Communication",
+  "soft_skill_2_description": "Clear technical explanations for other profiles (frontend, product). Understandable documentation of APIs and processes.",
+
+  "soft_skill_3_title": "# Team Collaboration",
+  "soft_skill_3_description": "Work in agile environments (Scrum, Kanban). Participation in code reviews.",
+
+  "soft_skill_4_title": "# Autonomy and Responsibility",
+  "soft_skill_4_description": "Time management and deadline compliance. Proactivity to find solutions and propose improvements.",
+
+  "soft_skill_5_title": "# Adaptability to Change",
+  "soft_skill_5_description": "Continuous learning of new technologies. Flexibility to work in different environments or stacks.",
+
+  "soft_skill_6_title": "# Quality Orientation",
+  "soft_skill_6_description": "Attention to detail. Search for best practices and efficiency in code.",
+
+  "soft_skill_7_title": "# Empathy and Humility",
+  "soft_skill_7_description": "Openness to feedback. Collaboration based on respect and active listening."
 }
