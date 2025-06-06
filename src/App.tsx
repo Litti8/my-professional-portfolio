@@ -1,42 +1,31 @@
+
 import React from 'react';
 import Hero from './components/Hero';
 import About from './components/About';
 import Skills from './components/Skills';
-import { useTranslation } from 'react-i18next'; 
+// import Projects from './components/Projects';
+import Navbar from './components/Navbar'; // <-- Importa el nuevo componente Navbar
+// useTranslation ya no se necesita aquí porque el control de idioma se moverá al Navbar
 
 function App() {
-  const { t, i18n } = useTranslation(); 
-
-  // Función para cambiar el idioma
-  const changeLanguage = (lng: string) => {
-    i18n.changeLanguage(lng);
-  };
+  // Los props para changeLanguage e i18n se pasarán al Navbar, si es necesario,
+  // pero usaremos useTranslation directamente en Navbar para simplificar.
 
   return (
     <div className="min-h-screen bg-gray-900 text-white">
-      
-      <div className="absolute top-4 right-4 z-20 space-x-2">
-        <button
-          onClick={() => changeLanguage('en')}
-          className={`px-3 py-1 rounded-md text-sm font-medium ${i18n.language === 'en' ? 'bg-blue-500 text-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'}`}
-        >
-          EN
-        </button>
-        <button
-          onClick={() => changeLanguage('es')}
-          className={`px-3 py-1 rounded-md text-sm font-medium ${i18n.language === 'es' ? 'bg-blue-500 text-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'}`}
-        >
-          ES
-        </button>
-      </div>
+      {/* El Navbar va aquí, fijo en la parte superior */}
+      <Navbar />
 
-      <h1 className="text-center text-4xl font-bold py-8">
-        {t('portfolio_title')} 
-      </h1>
+      {/* Eliminamos el h1 del título y los botones de idioma de aquí */}
+      {/* <h1 className="text-center text-4xl font-bold py-8">
+        {t('portfolio_title')}
+      </h1> */}
+      {/* Los botones de idioma también se moverán al Navbar */}
 
       <Hero />
       <About />
       <Skills />
+      
     </div>
   );
 }

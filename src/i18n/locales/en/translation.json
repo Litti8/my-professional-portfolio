@@ -3,7 +3,12 @@
   "hero_subtitle": "Software Developer focused on Backend and infrastructure.",
   "view_projects": "View Projects",
   "contact_me": "Contact Me",
-  "portfolio_title": "My Personal Portfolio",
+  
+  "portfolio_title": "< Litti8 />",
+  "nav_home": "Home",
+  "nav_about": "About",
+  "nav_skills": "Skills",
+  "nav_projects": "Projects",
 
   "about_title": "About Me",
   "about_paragraph_1": "Hello! I am Lisandro, a passionate Software developer with an analytical mindset, focused on solving complex problems with efficiency and quality.",

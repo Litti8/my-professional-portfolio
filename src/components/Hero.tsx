@@ -6,7 +6,7 @@ const Hero: React.FC = () => {
   const { t } = useTranslation(); 
 
   return (
-    <section className="relative h-screen flex items-center justify-center text-center p-4">
+    <section id="hero" className="relative h-screen flex items-center justify-center text-center p-4">
       <div className="absolute inset-0 bg-gradient-to-r from-blue-700 to-purple-800 opacity-90 z-0"></div>
 
       <div className="relative z-10 max-w-3xl mx-auto">

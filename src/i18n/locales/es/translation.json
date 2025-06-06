@@ -3,7 +3,12 @@
   "hero_subtitle": "Desarrollador de Software enfocado al Backend e infraestructura",
   "view_projects": "Ver Proyectos",
   "contact_me": "Contáctame",
-  "portfolio_title": "Mi Portafolio Personal",
+
+  "portfolio_title": "< Litti8 />",
+  "nav_home": "Inicio",
+  "nav_about": "Sobre Mí",
+  "nav_skills": "Habilidades",
+  "nav_projects": "Proyectos",
 
   "about_title": "Sobre Mí",
   "about_paragraph_1": "¡Hola! Soy Lisandro, un apasionado Desarrollador de software con mentalidad analítica, enfocado en resolver problemas complejos con eficiencia y calidad.",
