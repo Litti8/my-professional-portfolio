@@ -62,8 +62,9 @@ const Navbar: React.FC = () => {
               key={link.id}
               href={`#${link.id}`}
               className={`
-                text-white text-lg font-medium hover:text-blue-400 transition-colors duration-300
-                ${activeSection === link.id ? 'border-b-2 border-blue-400 text-blue-400' : ''}
+                text-white text-lg font-medium transition-colors duration-300
+                border-b-2 border-transparent
+               hover:border-blue-400 hover:text-blue-400
               `}
             >
               {t(link.titleKey)}
