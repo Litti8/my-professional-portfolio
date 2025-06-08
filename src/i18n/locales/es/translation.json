@@ -4,7 +4,7 @@
   "view_projects": "Ver Proyectos",
   "contact_me": "Contáctame",
 
-  "portfolio_title": "< Litti8 />",
+  "portfolio_title": "< Github: Litti8 >",
   "nav_home": "Inicio",
   "nav_about": "Sobre Mí",
   "nav_skills": "Habilidades",
@@ -40,5 +40,24 @@
   "soft_skill_6_description": "Atención al detalle. Búsqueda de buenas prácticas y eficiencia en el código.",
 
   "soft_skill_7_title": "# Empatía y Humildad",
-  "soft_skill_7_description": "Apertura al feedback. Colaboración desde el respeto y la escucha activa."
+  "soft_skill_7_description": "Apertura al feedback. Colaboración desde el respeto y la escucha activa.",
+
+  
+  "projects_title": "Mis Proyectos",
+  "project_github": "GitHub",
+  "project_demo": "Demo en Vivo",
+
+  
+  "project_1_title": "API Backend de E-commerce",
+  "project_1_description": "Una robusta API backend para una plataforma de comercio electrónico, construida con Spring Boot. Incluye autenticación de usuarios, gestión de productos, procesamiento de pedidos e integración de pagos.",
+  "project_1_tech": "Java, Spring Boot, PostgreSQL, Docker, JWT",
+
+  "project_2_title": "Aplicación de Chat en Tiempo Real",
+  "project_2_description": "Una aplicación web de chat en tiempo real utilizando Node.js, Express y WebSockets. Soporta múltiples salas de chat y mensajes directos.",
+  "project_2_tech": "Node.js, Express.js, WebSockets, MongoDB, React",
+
+  
+  "project_3_title": "Sitio Web de Portafolio Personal",
+  "project_3_description": "Mi sitio web de portafolio personal construido con React y Tailwind CSS. Muestra mis habilidades, proyectos e información de contacto.",
+  "project_3_tech": "React, TypeScript, Tailwind CSS, i18next"
 }

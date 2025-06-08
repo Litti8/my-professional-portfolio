@@ -50,7 +50,7 @@ const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
         {/* Nombre del Portafolio / Logo */}
         <div className="flex-shrink-0">
-          <a href="#hero" className="text-white text-2xl font-bold hover:text-blue-400 transition-colors duration-300">
+          <a href="https://github.com/Litti8" className="text-white text-2xl font-bold hover:text-blue-400 transition-colors duration-300">
             {t('portfolio_title')}
           </a>
         </div>
