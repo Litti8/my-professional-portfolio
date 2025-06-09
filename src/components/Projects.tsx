@@ -25,19 +25,19 @@ const Projects: React.FC = () => {
       githubLink: 'https://github.com/tu_usuario/tu_repo_ecommerce',
     },
     {
-      imageSrc: '/images/project-chat-app.jpg', 
+      imageSrc: '/images/projects_images/myGameGuru.png', 
       titleKey: 'project_2_title',
       descriptionKey: 'project_2_description',
       techKey: 'project_2_tech',
-      githubLink: 'https://github.com/tu_usuario/tu_repo_chat',
-      demoLink: 'https://chat-app.tudominio.com', 
+      githubLink: 'https://github.com/Litti8/My_Game_Guru',
+      demoLink: 'https://my-game-guru.onrender.com/', 
     },
     {
       imageSrc: '/images/project-portfolio.jpg',
       titleKey: 'project_3_title',
       descriptionKey: 'project_3_description',
       techKey: 'project_3_tech',
-      githubLink: 'https://github.com/tu_usuario/my-professional-portfolio',
+      githubLink: 'https://github.com/Litti8/my-professional-portfolio',
       demoLink: 'https://tu-portafolio.com', 
     },
     

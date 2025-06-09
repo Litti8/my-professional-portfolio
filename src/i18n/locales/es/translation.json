@@ -9,6 +9,7 @@
   "nav_about": "Sobre Mí",
   "nav_skills": "Habilidades",
   "nav_projects": "Proyectos",
+  "nav_contact": "Contacto",
 
   "about_title": "Sobre Mí",
   "about_paragraph_1": "¡Hola! Soy Lisandro, un apasionado Desarrollador de software con mentalidad analítica, enfocado en resolver problemas complejos con eficiencia y calidad.",
@@ -52,12 +53,24 @@
   "project_1_description": "Una robusta API backend para una plataforma de comercio electrónico, construida con Spring Boot. Incluye autenticación de usuarios, gestión de productos, procesamiento de pedidos e integración de pagos.",
   "project_1_tech": "Java, Spring Boot, PostgreSQL, Docker, JWT",
 
-  "project_2_title": "Aplicación de Chat en Tiempo Real",
-  "project_2_description": "Una aplicación web de chat en tiempo real utilizando Node.js, Express y WebSockets. Soporta múltiples salas de chat y mensajes directos.",
-  "project_2_tech": "Node.js, Express.js, WebSockets, MongoDB, React",
+  "project_2_title": "My Game Guru",
+  "project_2_description": "My Game Guru es una aplicación web desarrollada a distancia en 2024. Su principal objetivo es ofrecer recomendaciones personalizadas de videojuegos basadas en indicaciones generadas por el usuario. Solo tienes que describir a qué te gustaría jugar... ¡y dejar que el sistema haga el resto!",
+  "project_2_tech": "React, JavaScript, Python, Flask, PostgreSQL, BootStrap, CSS, HTML, JWT, Github Projects",
 
   
   "project_3_title": "Sitio Web de Portafolio Personal",
   "project_3_description": "Mi sitio web de portafolio personal construido con React y Tailwind CSS. Muestra mis habilidades, proyectos e información de contacto.",
-  "project_3_tech": "React, TypeScript, Tailwind CSS, i18next"
+  "project_3_tech": "React, TypeScript, Tailwind CSS, i18next",
+
+  "contact_title": "Contáctame",
+  "contact_intro": "¡No dudes en contactarme si tienes alguna pregunta u oportunidad!",
+  "contact_name": "Tu Nombre",
+  "contact_email": "Tu Correo Electrónico",
+  "contact_message": "Tu Mensaje",
+  "contact_send": "Enviar Mensaje",
+  "contact_success": "¡Mensaje enviado con éxito!",
+  "contact_error": "Error al enviar el mensaje. Por favor, inténtalo de nuevo.",
+  "contact_social_media": "Conecta conmigo:",
+  "contact_download_cv": "Descargar CV",
+  "contact_email_direct": "Enviar un Correo"
 }

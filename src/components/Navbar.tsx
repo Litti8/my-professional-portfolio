@@ -8,7 +8,7 @@ const Navbar: React.FC = () => {
   const [scrolled, setScrolled] = useState(false);
 
   
-  const sectionIds = ['hero', 'about', 'skills', 'projects']; 
+  const sectionIds = ['hero', 'about', 'skills', 'projects', 'contact'];
   const activeSection = useScrollSpy(sectionIds, 64); 
 
   const navLinks = [
@@ -16,6 +16,7 @@ const Navbar: React.FC = () => {
     { id: 'about', titleKey: 'nav_about' },
     { id: 'skills', titleKey: 'nav_skills' },
     { id: 'projects', titleKey: 'nav_projects' }, 
+    { id: 'contact', titleKey: 'nav_contact' },
   ];
 
   const changeLanguage = (lng: string) => {

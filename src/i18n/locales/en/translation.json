@@ -9,6 +9,7 @@
   "nav_about": "About",
   "nav_skills": "Skills",
   "nav_projects": "Projects",
+  "nav_contact": "Contact",
 
   "about_title": "About Me",
   "about_paragraph_1": "Hello! I am Lisandro, a passionate Software developer with an analytical mindset, focused on solving complex problems with efficiency and quality.",
@@ -52,12 +53,25 @@
   "project_1_description": "A robust backend API for an e-commerce platform, built with Spring Boot. Features include user authentication, product management, order processing, and payment integration.",
   "project_1_tech": "Java, Spring Boot, PostgreSQL, Docker, JWT",
 
-  "project_2_title": "Real-time Chat Application",
-  "project_2_description": "A web-based real-time chat application using Node.js, Express, and WebSockets. Supports multiple chat rooms and direct messaging.",
-  "project_2_tech": "Node.js, Express.js, WebSockets, MongoDB, React",
+  "project_2_title": "My Game Guru",
+  "project_2_description": "My Game Guru is a web application developed remotely in 2024. Its main goal is to provide personalized video game recommendations based on user-generated prompts. Just describe what you'd like to play… and let the system do the rest!",
+  "project_2_tech": "React, JavaScript, Python, Flask, PostgreSQL, BootStrap, CSS, HTML, JWT, Github Projects",
 
   
   "project_3_title": "Personal Portfolio Website",
   "project_3_description": "My personal portfolio website built with React and Tailwind CSS. Showcases my skills, projects, and contact information.",
-  "project_3_tech": "React, TypeScript, Tailwind CSS, i18next"
+  "project_3_tech": "React, TypeScript, Tailwind CSS, i18next",
+
+  "contact_title": "Get in Touch",
+  "contact_intro": "Feel free to reach out if you have any questions or opportunities!",
+  "contact_name": "Your Name",
+  "contact_email": "Your Email",
+  "contact_message": "Your Message",
+  "contact_send": "Send Message",
+  "contact_success": "Message sent successfully!",
+  "contact_error": "Failed to send message. Please try again.",
+  "contact_social_media": "Connect with me:",
+  "contact_download_cv": "Download CV",
+  "contact_email_direct": "Send an Email"
+
 }
