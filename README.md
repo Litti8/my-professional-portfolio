@@ -46,7 +46,7 @@ Make sure you have [Node.js](https://nodejs.org/en/) (which includes npm) instal
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Litti8/my-professional-portfolio.git](https://github.com/Litti8/my-professional-portfolio.git)
+    git clone https://github.com/Litti8/my-professional-portfolio.git
     cd my-professional-portfolio
     ```
 
