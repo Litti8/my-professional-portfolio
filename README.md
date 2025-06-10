@@ -75,38 +75,40 @@ npm start
 ```
 
 ### **Project Structure**
-- my-professional-portfolio/
-  - public/
-    - images/
-    - icons/
-    - cv/
-  - src/
-    - App.tsx
-    - index.css
-    - index.tsx
-    - components/
-      - About.tsx
-      - Contact.tsx
-      - Footer.tsx
-      - Hero.tsx
-      - Navbar.tsx
-      - ProjectCard.tsx
-      - Skills.tsx
-    - i18n/
-      - locales/
-        - en/
-          - translation.json
-        - es/
-          - translation.json
-    - hooks/
-      - useScrollSpy.ts
-  - .env
-  - .gitignore
-  - package.json
-  - README.md
-  - tailwind.config.js
-  - tsconfig.json
-  - ...other configuration files
+```
+my-professional-portfolio
+├── public
+│   ├── images
+│   ├── icons
+│   └── cv
+├── src
+│   ├── App.tsx
+│   ├── index.css
+│   ├── index.tsx
+│   ├── components
+│   │   ├── About.tsx
+│   │   ├── Contact.tsx
+│   │   ├── Footer.tsx
+│   │   ├── Hero.tsx
+│   │   ├── Navbar.tsx
+│   │   ├── ProjectCard.tsx
+│   │   └── Skills.tsx
+│   ├── i18n
+│   │   └── locales
+│   │       ├── en
+│   │       │   └── translation.json
+│   │       └── es
+│   │           └── translation.json
+│   └── hooks
+│       └── useScrollSpy.ts
+├── .env
+├── .gitignore
+├── package.json
+├── README.md
+├── tailwind.config.js
+├── tsconfig.json
+└── ...other configuration files
+```
 
 
 ---
