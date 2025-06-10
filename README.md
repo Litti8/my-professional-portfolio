@@ -75,38 +75,38 @@ npm start
 ```
 
 ### **Project Structure**
-my-professional-portfolio/
-├── public/                 # Static assets (images, SVGs, CV)
-│   ├── images/             # Project images, etc.
-│   ├── icons/              # SVG files for icons (LinkedIn, GitHub, Email, PDF)
-│   └── cv/                 # Your CV.pdf file
-├── src/                    # Application source code
-│   ├── App.tsx             # Main application component
-│   ├── index.css           # Base Tailwind CSS styles
-│   ├── index.tsx           # Entry point of the application
-│   ├── components/         # Reusable React components
-│   │   ├── About.tsx
-│   │   ├── Contact.tsx
-│   │   ├── Footer.tsx
-│   │   ├── Hero.tsx
-│   │   ├── Navbar.tsx
-│   │   ├── ProjectCard.tsx
-│   │   └── Skills.tsx
-│   ├── i18n/               # Internationalization configuration
-│   │   └── locales/
-│   │       ├── en/
-│   │       │   └── translation.json
-│   │       └── es/
-│   │           └── translation.json
-│   └── hooks/              # Custom React Hooks
-│       └── useScrollSpy.ts
-├── .env                    # Environment variables (NOT pushed to Git)
-├── .gitignore              # Files and folders to be ignored by Git
-├── package.json            # Project metadata and dependencies
-├── README.md               # This file
-├── tailwind.config.js      # Tailwind CSS configuration
-├── tsconfig.json           # TypeScript configuration
-└── ...other configuration files
+- my-professional-portfolio/
+  - public/
+    - images/
+    - icons/
+    - cv/
+  - src/
+    - App.tsx
+    - index.css
+    - index.tsx
+    - components/
+      - About.tsx
+      - Contact.tsx
+      - Footer.tsx
+      - Hero.tsx
+      - Navbar.tsx
+      - ProjectCard.tsx
+      - Skills.tsx
+    - i18n/
+      - locales/
+        - en/
+          - translation.json
+        - es/
+          - translation.json
+    - hooks/
+      - useScrollSpy.ts
+  - .env
+  - .gitignore
+  - package.json
+  - README.md
+  - tailwind.config.js
+  - tsconfig.json
+  - ...other configuration files
 
 
 ---
