@@ -1,22 +1,19 @@
-/* src/index.css */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 body {
-  /* Elimina el margin: 0; inicial si lo tenías, y asegúrate de que solo margin-top esté presente */
-  /* margin: 0; <--- Elimina esto si está causando conflicto */
+ 
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  
-  /* Este margen empuja el contenido del body hacia abajo, evitando que quede oculto por el navbar fijo */
-  margin-top: 64px; /* Ajusta esto a la altura de tu navbar (h-16 en Tailwind es 64px) */
-  
-  scroll-behavior: smooth; /* Habilita el scroll suave para los enlaces del navbar */
-  overflow-x: hidden; /* Evita el scroll horizontal no deseado */
+
+  margin-top: 64px;
+  scroll-behavior: smooth;
+  overflow-x: hidden; 
 }
 
 code {
@@ -25,6 +22,5 @@ code {
 }
 
 html {
-  /* Esto es CRUCIAL para que los enlaces internos naveguen correctamente sin que el navbar tape la parte superior de la sección */
-  scroll-padding-top: 64px; /* DEBE ser el mismo valor que margin-top del body y offsetPx del Navbar */
+  scroll-padding-top: 64px; 
 }

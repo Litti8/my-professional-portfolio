@@ -124,7 +124,7 @@ const Contact: React.FC = () => {
             className="text-gray-300 hover:text-purple-500 transition-colors duration-300 text-5xl"
             aria-label="GitHub Profile"
           >
-             <img src="images/icons/github.svg" alt="GitHub" className="w-12 h-12 filter grayscale hover:grayscale-0" />
+             <img src="images/icons/github3.svg" alt="GitHub" className="w-12 h-12 filter grayscale hover:grayscale-0" />
           </a>
 
           {/* Email */}

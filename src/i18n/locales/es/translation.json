@@ -72,5 +72,16 @@
   "contact_error": "Error al enviar el mensaje. Por favor, inténtalo de nuevo.",
   "contact_social_media": "Conecta conmigo:",
   "contact_download_cv": "Descargar CV",
-  "contact_email_direct": "Enviar un Correo"
+  "contact_email_direct": "Enviar un Correo",
+
+
+  "footer_command_prefix": "$",
+  "footer_command": "obtener-info-contacto",
+  "footer_output_label": "Salida:",
+  "footer_name_label": "Nombre:",
+  "footer_email_label": "Correo:",
+  "footer_github_label": "GitHub:",
+  "footer_linkedin_label": "LinkedIn:",
+  "footer_cv_label": "CV:",
+  "footer_disclaimer": "Para más detalles, por favor explora las secciones anteriores."
 }
