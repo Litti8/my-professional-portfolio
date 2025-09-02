@@ -47,20 +47,21 @@
   "projects_title": "Projects",
   "project_github": "GitHub",
   "project_demo": "Live Demo",
+  "project_tech": "Technologies",
 
   
-  "project_1_title": "E-commerce Backend API",
-  "project_1_description": "A robust backend API for an e-commerce platform, built with Spring Boot. Features include user authentication, product management, order processing, and payment integration.",
-  "project_1_tech": "Java, Spring Boot, PostgreSQL, Docker, JWT",
+  "project_1_title": "Java Inventory App",
+  "project_1_description": "An inventory system with a RESTful API. This application demonstrates a layered architecture, dependency injection, and data persistence with Spring Data JPA.",
+  "project_1_tech": "Java, Spring Boot, MySQL, JPA",
 
   "project_2_title": "My Game Guru",
   "project_2_description": "My Game Guru is a web application developed remotely in 2024. Its main goal is to provide personalized video game recommendations based on user-generated prompts. Just describe what you'd like to play… and let the system do the rest!",
   "project_2_tech": "React, JavaScript, Python, Flask, PostgreSQL, BootStrap, CSS, HTML, JWT, Github Projects",
 
   
-  "project_3_title": "Personal Portfolio Website",
-  "project_3_description": "My personal portfolio website built with React and Tailwind CSS. Showcases my skills, projects, and contact information.",
-  "project_3_tech": "React, TypeScript, Tailwind CSS, i18next",
+  "project_3_title": "Java Human Resources App",
+  "project_3_description": "A RESTful API for a Human Resources (HR) system. This application is a backend service for managing employee records, built with Spring Boot, Spring Data JPA, and Lombok. It follows a clean layered architecture, demonstrates robust RESTful exception handling, and is designed to be consumed by a modern frontend application.",
+  "project_3_tech": "Java, Spring Boot, MySQL, JPA, Lombok",
 
   "contact_title": "Get in Touch",
   "contact_intro": "Feel free to reach out if you have any questions or opportunities!",

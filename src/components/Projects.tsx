@@ -18,11 +18,12 @@ const Projects: React.FC = () => {
   
   const projectsList: Project[] = [
     {
-      imageSrc: '/images/project-ecommerce-backend.jpg', 
+      imageSrc: '/images/projects_images/Inventory-app.png', 
       titleKey: 'project_1_title',
       descriptionKey: 'project_1_description',
       techKey: 'project_1_tech',
-      githubLink: 'https://github.com/tu_usuario/tu_repo_ecommerce',
+      githubLink: 'https://github.com/Litti8/Java-Inventory-App',
+      demoLink: 'https://youtu.be/aJ90vsTIR6k',
     },
     {
       imageSrc: '/images/projects_images/myGameGuru.png', 
@@ -30,15 +31,15 @@ const Projects: React.FC = () => {
       descriptionKey: 'project_2_description',
       techKey: 'project_2_tech',
       githubLink: 'https://github.com/Litti8/My_Game_Guru',
-      demoLink: 'https://my-game-guru.onrender.com/', 
+      demoLink: 'https://www.youtube.com/watch?v=H599B9vBIIc', 
     },
     {
-      imageSrc: '/images/project-portfolio.jpg',
+      imageSrc: '/images/projects_images/hr-app-screenshot.png',
       titleKey: 'project_3_title',
       descriptionKey: 'project_3_description',
       techKey: 'project_3_tech',
-      githubLink: 'https://github.com/Litti8/my-professional-portfolio',
-      demoLink: 'https://tu-portafolio.com', 
+      githubLink: 'https://github.com/Litti8/Java-human-resources-app',
+      demoLink: 'https://www.youtube.com/watch?v=EkD2ZS3-o-U', 
     },
     
   ];

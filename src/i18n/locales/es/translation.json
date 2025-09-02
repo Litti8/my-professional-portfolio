@@ -47,20 +47,20 @@
   "projects_title": "Mis Proyectos",
   "project_github": "GitHub",
   "project_demo": "Demo en Vivo",
+  "project_tech": "Tecnologías",
 
-  
-  "project_1_title": "API Backend de E-commerce",
-  "project_1_description": "Una robusta API backend para una plataforma de comercio electrónico, construida con Spring Boot. Incluye autenticación de usuarios, gestión de productos, procesamiento de pedidos e integración de pagos.",
-  "project_1_tech": "Java, Spring Boot, PostgreSQL, Docker, JWT",
+  "project_1_title": "Aplicación de Inventario Java",
+  "project_1_description": "Un sistema de inventario con una API RESTful. Esta aplicación muestra una arquitectura por capas, inyección de dependencias y persistencia de datos con Spring Data JPA.",
+  "project_1_tech": "Java, Spring Boot, MySQL, JPA",
 
   "project_2_title": "My Game Guru",
   "project_2_description": "My Game Guru es una aplicación web desarrollada a distancia en 2024. Su principal objetivo es ofrecer recomendaciones personalizadas de videojuegos basadas en indicaciones generadas por el usuario. Solo tienes que describir a qué te gustaría jugar... ¡y dejar que el sistema haga el resto!",
   "project_2_tech": "React, JavaScript, Python, Flask, PostgreSQL, BootStrap, CSS, HTML, JWT, Github Projects",
 
   
-  "project_3_title": "Sitio Web de Portafolio Personal",
-  "project_3_description": "Mi sitio web de portafolio personal construido con React y Tailwind CSS. Muestra mis habilidades, proyectos e información de contacto.",
-  "project_3_tech": "React, TypeScript, Tailwind CSS, i18next",
+  "project_3_title": "Aplicacion de Recursos Humanos en Java",
+  "project_3_description": "Una API RESTful para un sistema de Recursos Humanos (HR). Esta aplicación es un servicio backend para gestionar registros de empleados, construido con Spring Boot, Spring Data JPA y Lombok. Sigue una arquitectura por capas, demuestra un manejo robusto de excepciones RESTful y está diseñada para ser consumida por una aplicación frontend moderna.",
+  "project_3_tech": "Java, Spring Boot, MySQL, JPA, Lombok",
 
   "contact_title": "Contáctame",
   "contact_intro": "¡No dudes en contactarme si tienes alguna pregunta u oportunidad!",
