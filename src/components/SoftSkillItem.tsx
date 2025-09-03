@@ -49,7 +49,6 @@ const SoftSkillItem: React.FC<SoftSkillItemProps> = ({ titleKey, descriptionKey,
           inline-block px-4 py-2 rounded-full cursor-default
           bg-gray-700 hover:bg-gray-600 transition-colors duration-200
           transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-75
-          whitespace-nowrap
         `}
       >
         {t(titleKey)}
